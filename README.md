@@ -1,2 +1,2 @@
-# Panaderiaa-Numpy
+# Panaderia-Numpy
 Ejercicio básico Numpy
